@@ -142,9 +142,10 @@ html{
 .header-logo__img {
     width: 220px;
     height: 39px;
-    background-image: url(./img/header/logo.jpg);
+    background-image: url(./img/avatarlogo.jpg);
     background-position: 0 -42px;
-    margin: 14px 16px 32px 0;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .header-search {
